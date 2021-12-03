@@ -13,6 +13,6 @@ int main (){
     }
     else {
         P = lng * s + (lng - 30)*s*0.5;
-    };
+    }
     cout<<"Wyplata wynosi: "<<P;
 }
