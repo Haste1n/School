@@ -1,41 +1,50 @@
 #include <iostream>
 using namespace std;
 
-const int m = 5;
-int tablica[m];
+const int m = 2, k = 4;
+int tablica[m][k];
 
 void wyczytaj(){
 cout<<"Stan tablicy:"<<endl;
 for (int i = 0; i < m; i++){
-    cout<<"  "<<i<<": "<<tablica[i]<<endl;
+        for (int l = 0; l < k; l++){
+            cout<<"  "<<i<<":"<<l<<" ; "<<tablica[i][l]<<endl;
+        }
     }
 }
 
 void wyczytaj1(){
-int n;
-cout<<"\nPodaj indeks do wyczytania: ";
+int n, l;
+cout<<"\nPodaj pierwszy wymiar do wyczytania: ";
 cin>>n;
-cout<<"  "<<n<<": "<<tablica[n]<<"\n"<<endl;
+cout<<"\nPodaj drugi wymiar do wyczytania: ";
+cin>>l;
+cout<<"  "<<n<<":"<<l<<" ; "<<tablica[n][l]<<"\n"<<endl;
 }
 
 void wczytaj(){
 for (int i = 0; i < m; i++){
-    cout<<"Podaj liczbe o indeksie "<<i<<": ";
-    cin>>tablica[i];
+    for (int l = 0; l < k; l++){
+        cout<<"Podaj liczbe o indeksie "<<i<<":"<<l<<" ; ";
+        cin>>tablica[i][l];
+        }
     }
 }
 
-void sumowanie(){
-int suma = 0;
+int iloczyn(){
+int iloczyn = 1;
 for (int i = 0; i < m; i++){
-    if (tablica[i] > 0) suma += tablica[i];
+    for (int l = 0; l < k; l++){
+        if (tablica[i][l] > 0) iloczyn *= tablica[i][l];
+        }
     }
-cout<<"\nSuma liczb wiekszych od zera: "<<suma<<"\n";
+
 }
 
 int main(){
 wczytaj();
 wyczytaj1();
 wyczytaj();
-sumowanie();
+cout<<"\nIloczyn liczb: ";
+cout<<iloczyn();
 }
