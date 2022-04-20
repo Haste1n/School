@@ -1,0 +1,28 @@
+// Example program
+#include <iostream>
+#include <string>
+using namespace std;
+
+int hehe(int a, int b)
+{
+    int c;
+    while (b != 0)
+    {
+        c = b;
+        b = a % b;
+        a = c;
+    }
+    return a;
+}
+
+int main()
+{
+int a;
+int b;
+cout<<"a = ";
+cin>>a;
+cout<<"b = ";
+cin>>b;
+cout<< "NWD = "<<hehe(a, b);
+return 0;
+}
