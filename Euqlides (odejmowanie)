@@ -1,0 +1,32 @@
+// Example program
+#include <iostream>
+#include <string>
+using namespace std;
+
+int hehe(int a, int b)
+{
+    while (a != b)
+    {
+    if (a > b)    
+    {    
+        a = a - b;
+    }
+    else
+    {
+     b = b - a;      
+    }
+    }
+return a;
+}
+
+int main()
+{
+int a;
+int b;
+cout<<"a = ";
+cin>>a;
+cout<<"b = ";
+cin>>b;
+cout<< "NWD = "<<hehe(a, b);
+return 0;
+}
