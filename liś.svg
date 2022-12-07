@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="liś.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     objecttolerance="3"
+     inkscape:zoom="0.77985109"
+     inkscape:cx="556.5165"
+     inkscape:cy="580.88013"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect886"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:2.89134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 380.66211,283.52148 c -17.81844,27.45383 -80.69727,72.75586 -80.69727,72.75586 0,0 -17.62568,38.2113 1.78321,50.92578 87.98216,57.63587 58.96679,83.83204 58.96679,83.83204 -64.39375,-31.18016 -84.32617,-88.29688 -84.32617,-88.29688 0,0 -100.1542,72.81154 74.35156,164.67969 -64.6269,54.78928 -106.08593,-78.66602 -106.08593,-78.66602 0,0 -92.47195,244.00357 159.42382,153.83399 10.43334,3.0676 1.98386,83.43572 8.5987,99.86759 15.1337,-23.52603 0.002,-90.99002 5.04038,-102.08622 C 606.67876,712.60984 539.14952,508.02875 555.29102,448.11719 506.51175,562.34445 436.82316,572.62628 439.04492,544.31055 441.60729,511.65369 531.08358,479.78479 541,453.93555 563.4725,395.35616 529.26758,386.88672 529.26758,386.88672 484.96528,366.0496 409.38901,324.47969 380.66211,283.52148 Z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ccsccccccccsscc" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.0185208px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text8848"
+       x="40.172939"
+       y="0"><textPath
+         xlink:href="#rect886"
+         id="textPath17016"><tspan
+           id="tspan8846"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">TO   JEST    WSPANIALY  LISC         KTORY   ZROBILEM NA    LEKCJI          INFORMATYKI</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.757;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 109.13729,116.12725 c 0,0 6.6047,-19.029223 13.91703,-15.05297 7.31236,3.97625 -17.21938,29.25389 -13.91703,15.05297 z"
+       id="path42409" />
+  </g>
+</svg>
