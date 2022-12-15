@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="miłosz-patrzylas-13-2B.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     objecttolerance="1"
+     inkscape:zoom="1.102876"
+     inkscape:cx="388.98299"
+     inkscape:cy="655.55874"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="104.11793,172.25041"
+       orientation="1,0"
+       id="guide857" />
+    <sodipodi:guide
+       position="104.11793,172.25041"
+       orientation="1,0"
+       id="guide946" />
+    <sodipodi:guide
+       position="104.11793,172.25041"
+       orientation="1,0"
+       id="guide1297" />
+    <sodipodi:guide
+       position="104.11793,132.11275"
+       orientation="1,0"
+       id="guide64538" />
+    <sodipodi:guide
+       position="104.11793,134.70558"
+       orientation="1,0"
+       id="guide10930" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9522">
+      <stop
+         style="stop-color:#9e9e9e;stop-opacity:1;"
+         offset="0"
+         id="stop9518" />
+      <stop
+         style="stop-color:#9e9e9e;stop-opacity:0;"
+         offset="1"
+         id="stop9520" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8548">
+      <stop
+         style="stop-color:#003482;stop-opacity:1;"
+         offset="0"
+         id="stop8544" />
+      <stop
+         style="stop-color:#003482;stop-opacity:0;"
+         offset="1"
+         id="stop8546" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8548"
+       id="linearGradient8550"
+       x1="497.01938"
+       y1="733.25769"
+       x2="-50.913246"
+       y2="-6.6260495"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9522"
+       id="linearGradient9524"
+       x1="498.33749"
+       y1="766.87469"
+       x2="272.37787"
+       y2="336.18256"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path63643"
+       style="fill:url(#linearGradient9524);fill-opacity:1;stroke:#000000;stroke-width:2.51339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 393.51562,433.54883 c 0,0 -2.2614,45.26509 -183.32617,29.42187 0,113.16552 -31.6882,285.17884 183.32617,353.07813 C 608.53008,748.14954 576.84766,576.13622 576.84766,462.9707 395.78285,478.81392 393.51562,433.54883 393.51562,433.54883 Z"
+       transform="scale(0.26458333)" />
+    <path
+       id="path859"
+       style="fill:url(#linearGradient8550);fill-opacity:1;stroke:#000000;stroke-width:2.51339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 393.51562,471.49414 c 0,0 -1.81343,36.26833 -146.88867,23.57422 0,90.67204 -25.38815,228.49524 146.88867,282.89844 C 565.79246,723.5636 540.40625,585.7404 540.40625,495.06836 395.33101,507.76247 393.51562,471.49414 393.51562,471.49414 Z"
+       transform="scale(0.26458333)" />
+    <path
+       id="path995"
+       style="fill:none;fill-opacity:1;stroke:#e0e0e0;stroke-width:1.355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.616411,166.51765 c -2.71006,0.006 -5.209596,0.18008 -5.209596,0.18008 v 5.93815 h 10.932295 c 0,0 0.80959,2.42944 3.77882,2.42944 2.96923,0 3.77923,-2.42944 3.77923,-2.42944 h 10.93188 v -5.93815 c 0,0 -5.8033,-0.40489 -9.31239,0 -3.50909,0.4049 -5.39872,2.5643 -5.39872,2.5643 0,0 -1.88923,-2.1594 -5.398311,-2.5643 -1.206249,-0.13918 -2.683653,-0.18293 -4.103208,-0.18008 z" />
+    <path
+       id="path1113"
+       style="fill:#d5a304;fill-opacity:1;stroke:#000000;stroke-width:0.655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.109396,138.81583 v 2.37099 c 0,0 3.608209,0.30923 3.608209,5.15408 v 12.67868 c 0,0 0.618429,3.91723 5.257102,4.02032 4.947923,0.5154 6.803173,0.20639 8.143223,2.98959 1.34005,-2.7832 3.19574,-2.47419 8.14367,-2.98959 4.63866,-0.10309 5.2571,-4.02032 5.2571,-4.02032 V 146.3409 c 0,-4.84485 3.60776,-5.15408 3.60776,-5.15408 v -2.37099 h -16.08083 v 2.57705 l 1.85584,0.20605 c 0.82465,0.5154 0.9277,2.06146 0.9277,2.06146 0,0 -2.3e-4,9.69004 -0.41256,12.98865 -0.92773,2.98937 -3.29868,2.37054 -3.29868,2.37054 0,0 -2.37094,0.61883 -3.29867,-2.37054 -0.41233,-3.29861 -0.41212,-12.98865 -0.41212,-12.98865 0,0 0.10304,-1.54606 0.9277,-2.06146 l 1.85539,-0.20605 v -2.57705 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Cinzel;-inkscape-font-specification:'Cinzel, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#f9f6f6;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="text1917"><textPath
+         xlink:href="#path859"
+         id="textPath5251"><tspan
+           id="tspan1915"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Cinzel;-inkscape-font-specification:'Cinzel, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#f9f6f6;fill-opacity:1;stroke-width:0.264583"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.4300002 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 19.49">                    III Liceum ogólnokrztałcące      im. Unii Lubleskiej w Lublinie</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.11793"
+       y="202.20741"
+       id="text48680"><tspan
+         sodipodi:role="line"
+         id="tspan48678"
+         style="stroke-width:0.264583"
+         x="104.11793"
+         y="202.20741" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.11389px;line-height:1.25;font-family:Cinzel;-inkscape-font-specification:'Cinzel, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#efefef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="95.757637"
+       y="183.58495"
+       id="text55140"><tspan
+         sodipodi:role="line"
+         id="tspan55138"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.11389px;font-family:Cinzel;-inkscape-font-specification:'Cinzel, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#efefef;fill-opacity:1;stroke-width:0.264583"
+         x="95.757637"
+         y="183.58495">1921</tspan></text>
+  </g>
+</svg>
