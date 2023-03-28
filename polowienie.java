@@ -1,8 +1,8 @@
-import java.util.Scanner;
+import java.util.*;
 
 class polowka {
     public static void main(String[] args) {
-        double e, po=-100, k=100, a=4, b=6, c, s, l, p;
+        double e, po=-100, k=100, a=7.67, b=5.78, c, s, l, p, x;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj epsilon: ");
         e = scanner.nextDouble();
@@ -15,7 +15,8 @@ class polowka {
             l = s-c;
             p = s+c;
         }
-        System.out.println("Wynik policzony z dokladnoscia: ["+e+"]. Wynosi: "+s);
+        x = Math.round(s/e)*e;
+        System.out.println("Wynik policzony z dokladnoscia: ["+e+"]. Wynosi: "+x);
     }
     public static double funkcja(double s, double a, double b){
         return a*s+b;
