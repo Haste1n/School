@@ -2,13 +2,17 @@ import java.util.*;
 
 class polowka {
     public static void main(String[] args) {
-        double e, po=-100, k=100, a=7.67, b=5.78, c, s, l, p, x;
+        double e, po=-100, k=100, a1=-7.67, a, b=5.78, c, s, l, p, x;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj epsilon: ");
         e = scanner.nextDouble();
         s = (po+k)/2;
         l = po;
         p = k;
+        a = a1;
+        if(a1<0){
+            a = a1*-1;
+        }
         while((funkcja(s, a, b))!=0 && Math.abs(po-k)>=e){
             s = polowka(s, l, p, a, b);
             c = (Math.abs(l-p))/4;
@@ -16,6 +20,9 @@ class polowka {
             p = s+c;
         }
         x = Math.round(s/e)*e;
+        if(a1<0){
+            x = x*-1;
+        }
         System.out.println("Wynik policzony z dokladnoscia: ["+e+"]. Wynosi: "+x);
     }
     public static double funkcja(double s, double a, double b){
