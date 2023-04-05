@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+
+class polow {
+    public static void binar(long p, long q){
+        long l = 0, r = 10000, s;
+        while(l<r){
+            s = (l+r)/2;
+            if(s*s*s+s*p>=q){
+                r = s;
+            }
+            else{
+                l = s+1;
+            }
+        }
+        System.out.println("Wynik: ");
+        if(r*r*r+r*p==q){
+            System.out.println(r);
+        }
+        else{
+            System.out.println("Nie");
+        }
+    }
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        long p, q, n;
+        System.out.println("Podaj liczbe dzialan: ");
+        n = scanner.nextLong();
+        for(int i = 0; i < n; i++){
+            System.out.println("Podaj p: ");
+            p = scanner.nextLong();
+            System.out.println("Podaj q: ");
+            q = scanner.nextLong();
+            binar(p, q);
+        }
+    }
+}
