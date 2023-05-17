@@ -1,0 +1,6 @@
+Witając się z drugą osobą, podajemy sobie ręce. Jeśli wśród 'n' osób każda chce się przywitać z każdą, to ile razy nastąpi uścisk dłoni?
+n*(n-1)/2
+log₂n
+n²-n/2
+n²/2
+a
