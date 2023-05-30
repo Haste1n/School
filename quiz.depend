@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685444826 source:m:\qui\main.cpp
+	<iostream>
+
+1685445124 source:m:\qui\body.cpp
+	<iostream>
+	"header.h"
+	<fstream>
+
+1685445252 m:\qui\header.h
+	<iostream>
+

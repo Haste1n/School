@@ -2,7 +2,7 @@
 using namespace std;
 
 class Pytanie{
-    public;
+    public:
 
     string tresc;
     string a, b, c, d;

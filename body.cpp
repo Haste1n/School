@@ -16,6 +16,7 @@ void Pytanie::czytanie(){
         else if(l==nr_linii+3) c = linia;
         else if(l==nr_linii+4) d = linia;
         else if(l==nr_linii+5) poprawna = linia;
+        l++;
     }
     plik.close();
 }
