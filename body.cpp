@@ -22,7 +22,7 @@ void Pytanie::czytanie(){
 }
 
 void Pytanie::wywolanie(){
-    cout<<endl<<tresc<<endl;
+    cout<<endl<<id<<". "<<tresc<<endl;
     cout<<"\n";
     cout<<"a) "<<a<<endl;
     cout<<"b) "<<b<<endl;

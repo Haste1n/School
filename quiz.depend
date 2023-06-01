@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1685600903 source:m:\qui\main.cpp
+1685601860 source:m:\qui\main.cpp
 	<iostream>
 	"header.h"
 
-1685600862 source:m:\qui\body.cpp
+1685601860 source:m:\qui\body.cpp
 	<iostream>
 	"header.h"
 	<fstream>
