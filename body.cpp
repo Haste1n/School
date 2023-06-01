@@ -3,6 +3,24 @@
 #include <fstream>
 using namespace std;
 
+string ocena(int x){
+    if(x==1){
+        return "ndst";
+    }
+    else if(x==2){
+        return "dop";
+    }
+    else if(x==3){
+        return "dst";
+    }
+    else if(x==4){
+        return "db";
+    }
+    else if(x==5){
+        return "bdb";
+    }
+}
+
 void Pytanie::czytanie(){
     fstream plik;
     plik.open("spis.txt", ios::in);

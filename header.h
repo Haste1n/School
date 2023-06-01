@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+string ocena(int x);
+
 class Pytanie{
     public:
 
