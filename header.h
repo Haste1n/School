@@ -8,7 +8,9 @@ class Pytanie{
     string a, b, c, d;
     int id;
     string poprawna, podana;
+    int punkt;
 
     void czytanie();
     void wywolanie();
+    int sprawdz();
 };

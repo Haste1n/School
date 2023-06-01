@@ -1,28 +1,28 @@
-Witając się z drugą osobą, podajemy sobie ręce. Jeśli wśród 'n' osób każda chce się przywitać z każdą, to ile razy nastąpi uścisk dłoni?
+Witajac sie z druga osoba, podajemy sobie rece. Jesli wsrod 'n' osob kazda chce sie przywitac z kazda, to ile razy nastapi uscisk dloni?
 n*(n-1)/2
-log₂n
-n²-n/2
-n²/2
+log2 n
+n^2-n/2
+n^2/2
 a
-Algorytm o której z podanych złożoności obliczeniowych zwróci wynik najszybciej?
-nie da się tego określić
+Algorytm o ktorej z podanych zlozonosci obliczeniowych zwroci wynik najszybciej?
+nie da sie tego okreslic
 log n
 n
-n²
+n^2
 b
-Dana jest kwadratowa plansza o n ponumerowanych kolumnach i n ponumerowanych wierszach. Algorytm, który przypisuje kolejno każdemu polu sumę numerów wiersza i kolumny, na przecięciu których ono leży, ma złożoność obliczeniową:
+Dana jest kwadratowa plansza o n ponumerowanych kolumnach i n ponumerowanych wierszach. Algorytm, ktory przypisuje kolejno kazdemu polu sume numerow wiersza i kolumny, na przecieciu korych ono lezy, ma zlozonosc obliczeniowa:
 log n
 1
-n²
+n^2
 n
 c
-Które zdanie jest fałszywe?
-Złożoność układania wieży Hanoi rośnie wykładniczo wraz z ilością krążków.
-W pesymistycznym przypadku w drzewie binarnym czas wyszukiwania wartości w danym drzewie wynosi O(n).
-Problem komiwojażera to problem, który polega na znalezieniu najkrótszej możliwej trasy pomiędzy wszystkimi wierzchołkami grafu.
-Kolejka FIFO charakteryzuje się tym, że najpierw z kolejki wychodzą te obiekty, które jako pierwsze do niej weszły.
+Ktore zdanie jest falszywe?
+Zlozonosc ukladania wiezy Hanoi rosnie wykladniczo wraz z iloscia krazkow.
+W pesymistycznym przypadku w drzewie binarnym czas wyszukiwania wartosci w danym drzewie wynosi O(n).
+Problem komiwojazera to problem, ktory polega na znalezieniu najkrotszej mozliwej trasy pomiedzy wszystkimi wierzcholkami grafu.
+Kolejka FIFO charakteryzuje sie tym, ze najpierw z kolejki wychodza te obiekty, ktore jako pierwsze do niej weszly.
 a
-Dla funkcji f(n):  jeżeli n > 0 {wypisz n; f(n - 2); wypisz n} w wyniku wywołania z daną liczbą nie otrzymamy:
+Dla funkcji f(n):  jezeli n > 0 {wypisz n; f(n - 2); wypisz n} w wyniku wywolania z dana liczba nie otrzymamy:
 f(5) = 5 3 1 1 3 5
 f(6) = 6 4 2 2 4 6
 f(7) = 7 5 3 1 1 3 5 7

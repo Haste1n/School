@@ -22,5 +22,23 @@ void Pytanie::czytanie(){
 }
 
 void Pytanie::wywolanie(){
+    cout<<endl<<tresc<<endl;
+    cout<<"\n";
+    cout<<"a) "<<a<<endl;
+    cout<<"b) "<<b<<endl;
+    cout<<"c) "<<c<<endl;
+    cout<<"d) "<<d<<endl;
+    cout<<endl<<"Odpowiedz: ";
+    cout<<"\n";
+    cin>>podana;
+    cout<<"\n";
+}
 
+int Pytanie::sprawdz(){
+    if(podana == poprawna){
+        punkt=1;
+    }
+    else{
+        punkt=0;
+    }
 }
