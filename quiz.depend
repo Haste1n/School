@@ -1,18 +1,27 @@
 # depslib dependency file v1.0
-1685601860 source:m:\qui\main.cpp
+1685602625 source:m:\qui\main.cpp
 	<iostream>
+	<string>
 	"header.h"
 
-1685601860 source:m:\qui\body.cpp
+1685602629 source:m:\qui\body.cpp
 	<iostream>
 	"header.h"
 	<fstream>
 
-1685600638 m:\qui\header.h
+1685602620 m:\qui\header.h
 	<iostream>
 
 1685445124 m:\qui\body.cpp
 	<iostream>
 	"header.h"
 	<fstream>
+
+1685602625 source:m:\algorytmika - patrzylas\quiz\main.cpp
+	<iostream>
+	<string>
+	"header.h"
+
+1685602620 m:\algorytmika - patrzylas\quiz\header.h
+	<iostream>
 

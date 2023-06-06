@@ -4,7 +4,7 @@
 using namespace std;
 
 string ocena(int x){
-    if(x==1){
+    if(x==1 || x==0){
         return "ndst";
     }
     else if(x==2){
@@ -55,8 +55,10 @@ void Pytanie::wywolanie(){
 int Pytanie::sprawdz(){
     if(podana == poprawna){
         punkt=1;
+        cout<<"Dobrze!\n";
     }
     else{
         punkt=0;
+        cout<<"Zle. Poprawna odpowiedz: "<<poprawna<<".\n";
     }
 }
