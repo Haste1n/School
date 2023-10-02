@@ -10,12 +10,12 @@ main(){
         wej>>linia;
         a = linia;
         while(a>1){
+            if(a%i==0){
+                x++;
+            }
             while(a%i==0){
                 a/=i;
                 y++;
-            }
-            if(y!=0){
-                x++;
             }
             i++;
         }
