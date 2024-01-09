@@ -1,75 +1,36 @@
 #include <iostream>
 using namespace std;
 
-void merge(int* tab, int l, int m, int r){
-    int lSize = m - l + 1;
-    int rSize = r - m;
-    int tabL[lSize];
-    int* tabR = new int [rSize];
-    for(int i = 0; i < lSize; i++){
-        tabL[i] = tab[l + i];
-    }
-    for(int j = 0; j < rSize; j++){
-        tabR[j] = tab[m + 1 + j];
-    }
-    int i, j, k;
-    i = 0;
-    j = 0;
-    k = l;
-    while(i < lSize && j < rSize) {
-        if(tabL[i] <= tabR[j]) {
-            tab[k] = tabL[i];
-            i++;
-        }
-        else{
-            tab[k] = tabR[j];
-            j++;
-        }
-        k++;
-    }
-    while(i < lSize) {
-        tab[k] = tabL[i];
-        i++;
-        k++;
+int euklides(int a, int b){
+    int r;
+    if(b==0) return a;
+    else{
+        r=a%b;
+        return euklides(b, r);
     }
 
-    while(j < rSize) {
-        tab[k] = tabR[j];
-        j++;
-        k++;
-    }
-    delete[] tabR;
 }
 
-
-int mergeSort(int tab[], int l, int r){
-    if(l < r) {
-        int m = l + (r - l) / 2;
-        mergeSort(tab, l, m);
-        mergeSort(tab, m + 1, r);
-        merge(tab, l, m, r);
-    }
+int potega(int p, int w){
+    if(w==0) return 1;
+    else return potega(p, w-1) * p;
 }
 
+int silnia(int n){
+    if(n==0) return 1;
+    else return silnia(n-1)*n;
+}
+
+int fibonacci(int n){
+
+    if(n==1||n==2) return 1;
+    else return fibonacci(n-1) + fibonacci(n-2);
+}
 
 int main(){
-    int n, l = 0, r;
-    cout<<"Podaj dlugosc tablicy: ";
-    cin>>n;
-    r = n-1;
-    int tab[n];
-    for(int i = 0; i < n; i++){
-        cout<<"Podaj liczbe "<<i+1<<": ";
-        cin>>tab[i];
-    }
-    cout<<"Przed posortowaniem: ";
-    for(int i = 0 ; i < n; i++){
-        cout<<tab[i]<<", ";
-    }
-    mergeSort(tab, l, r);
-    cout<<endl<<"Po posortowaniu: ";
-    for(int i = 0 ; i < n; i++){
-        cout<<tab[i]<<", ";
-    }
+    cout<<euklides(63, 28)<<endl;
+    cout<<potega(3, 4)<<endl;
+    cout<<silnia(5)<<endl;
+    cout<<fibonacci(6)<<endl;
     return 0;
 }
