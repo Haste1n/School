@@ -1,0 +1,39 @@
+Today I'll be talking about cryptocurrineces, and the digital money market as a whole.
+
+Since ancient times humans have used some sort of currency. In the beggining, coins were made from
+gold and silver, altho at first, only used for collecting taxes, they were soon incorporated into trade.
+Seeing as the materials used in minting were precious and rare metals, they had obvious and
+indisputable value. 
+Because of that they were rather impractical, for example a single gold coin from the Roman Empire
+would now be worth about 400 dollars, so I'm sure that going grocery shopping would prove quite difficult.
+Adapting to those issues took a while, first solutions were to use less expensive metals like bronze to
+represent smaller parts of the more expensive coins.
+Soon other problems arose, such as the shortage of precious metals and a growing demand for a stable and
+easily divisible currency. This time instead of giving money value based on the cost of the materials used,
+governments began issuing fiat currency. Fiat currency is not backed by a physical commodity like gold or silver,
+instead, its value is assured by the trust and confidence of the people who use it as well as the authority of the issuing government.
+So basically, it doesn't have any value of its own, but we all agree that it has, purely for our own convenience.
+This form allowed for creation of paper money and eventually also digital currency.
+
+And that takes us to the main topic, which is cryptocurrencies. In essence, they operate similarly to fiat currencies, but they take it to the extreme. 
+What sets them apart is their obtaining process which is quite different from traditional money printing. There are various types of cryptocurrencies, 
+but let's focus on the most well-known one: Bitcoin. Bitcoin can be earned through a process called mining which involves using processing power, 
+preferably from specialized hardware like graphics cards, to solve complex mathematical problems. These problems, known as cryptographic puzzles, 
+are essentially riddles with no practical applications other than securing the cryptocurrency network. 
+Soon after the cryptocurriences were created, they were organized into a market of sorts, very similar to a stock market. Values of the coins
+fluctuate over time, just like stocks sold by companies, but in their case the changes are more abrupt and a lot stronger.
+Which means that both the risks and the potential rewards are bigger than in traditional stock markets. It is very important to keep 
+a keen eye on your virtual wallet, because cryptocurriences have a tendency to increase in value a few hundred procent overnight. 
+But the same goes for them plummeting down into nothing. So, while there have been many instances of pople earning a lot of money on
+trading crypto, many others lost, probably, a similar ammount.
+
+Quite a different story are NFTs which stands for (Non-Fungible Tokens). In short, they're a type of digital asset that represents 
+ownership of a unique item or piece of content. For example it can be an image. It's quite similar to owning a piece of art.
+With the difference that it is not a phisical object, but a piece of, somewhat original, data. Of course it comes with a lot
+of copyright issues, and the whole NFT market is quite unstable. 
+All that said it is also true that people really buy those chunks of binary code, with the most expensive piece - "The Merge" sold at 91 million dollars.
+
+To sum up, while the idea of digital curriences can and should be taken with a bit of scepticism, it is also true that the basic principles of this type
+of money are the same as any other currently used form of currency. It relies solely on peple giving it value as an unwritten agreement, but as long
+as there is a possibility of making some extra profit I don't think we have to worry about that.
+That is all, thank you.
