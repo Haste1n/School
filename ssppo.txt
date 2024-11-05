@@ -1,0 +1,48 @@
+Quantum computers
+
+Explain where the term comes from:
+The second part: Computer - lat.(computare) - calculate
+The first: Quantum - literally "how much" in latin.
+In physics: "the smallest discrete quantity of some 
+physical property that a system can possess". 
+Of course here it is used with a clear connection to Quantum physics
+What makes them "quantum" computers is the fact that they use
+some of the main principles and laws, in that field:
+- superposition - foton is a wave and a particle at the same time,
+computer bit in two states at the same time (not just 0 or 1),
+- entanglement - direct connention between two particles
+or in this context two bits in a computer, which means
+they move in tandem regardless of distance.
+- interference - this one is more universal and we learned
+about it in the context of wave, in computers it means that
+an incorrect answer (cancelled out), correct (reinforced).
+Basically it works on different rules than normal computing
+and is capable of working on many sets of data at the same time.
+To achieve such properties, you need to build a computer on a 
+quantum system, small enough to obey the laws of quantum mechanics.
+That means you're working on practically singular particles.
+As such it is very difficult to produce and maintain.
+Another thing is it's power consumption.
+An average quantum computer uses about 25 kW of power.
+And high power means a lot of heat, dissipation of which
+is of course very difficult.
+Despite of that, many companies like Meta and Google
+own at least one operational quantrum computing system.
+That means that they see at least some significance in
+having one of them on hand.
+That may be connected to the fact that thanks to their
+impressive computing power they are expected to be able
+to break any commonly used encryption, for example in banks
+or messaging apps. If our privacy on the internet is to be
+protected, the encryption algorythms will need to evolve
+quickly or be built up from the ground on
+compleatelly different principles.
+
+The presence of quantum computers likely won't change 
+the lives of normal people much. We are very far away from
+them being affordable for everyone and used in our
+everyday lives. While they will likely cause some problems
+to the giant companies, I doubt the average user will feel
+their impact in any significant way.
+
+Thats all.
