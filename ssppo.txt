@@ -10,6 +10,7 @@ What makes them "quantum" computers is the fact that they use
 some of the main principles and laws, in that field:
 - superposition - foton is a wave and a particle at the same time,
 computer bit in two states at the same time (not just 0 or 1),
+Shrodinger's cat - if everyone knows what it is.
 - entanglement - direct connention between two particles
 or in this context two bits in a computer, which means
 they move in tandem regardless of distance.
