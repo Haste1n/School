@@ -1,0 +1,12 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main(){
+	int ll;
+	fstream plik;
+	plik.open("dada.txt", ios::in);
+	getline(plik, ll);
+	plik.close();
+	return 0;
+}
