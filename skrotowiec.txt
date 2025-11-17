@@ -1,0 +1,8 @@
+Style:
+Naukowy: precyzja, obiektywność, logiczne, cytowanie, struktura logiczna.
+Formalny: sytuacje: urzędowe, zawodowe, naukowe; grzecznościowe zwroty.
+Oba: oficjalność, powaga, strona bierna, unikanie języka kolokwialnego, wyspecjalizowane słownictwo.
+
+Zastosowania:
+Formalny: dokumenty urzędowe, korespondencja biznesowa, przemówienia publiczne, 
+Naukowy: prace naukowe, raport naukowy, artykuł naukowy, 
