@@ -1,0 +1,50 @@
+Temat: Metodyka optymalizacji procesu uczenia dużych modeli językowych (LLM) w celu maksymalizacji efektywności predykcyjnej
+I. Wstęp: Definicja problemu badawczego
+Cel analizy: Identyfikacja kluczowych czynników determinujących jakość generowanych odpowiedzi przez modele oparte na architekturze Transformer.
+
+Uwarunkowania optymalizacyjne: Analiza relacji (trade-off) pomiędzy kosztami obliczeniowymi, rozmiarem modelu a dokładnością inferencji.
+
+Zakres przedmiotowy: Odejście od paradygmatu ilościowego (Big Data) w kierunku paradygmatu jakościowego (Data-Centric AI).
+
+II. Inżynieria danych (Data Engineering) jako fundament procesu
+Jakość korpusu treningowego stanowi główną determinantę potencjału modelu.
+
+Selekcja i kuratela danych: Konieczność rygorystycznej filtracji w celu eliminacji szumu informacyjnego oraz błędów logicznych.
+
+Deduplikacja: Wpływ usunięcia powtórzeń na zapobieganie zjawisku nadmiernego dopasowania (overfitting) i poprawę generalizacji wiedzy.
+
+Dywersyfikacja źródeł: Zapewnienie reprezentatywności próbki poprzez uwzględnienie zróżnicowanych domen (kod źródłowy, literatura naukowa, język naturalny).
+
+Dane syntetyczne: Wykorzystanie wiedzy generowanej przez modele o wyższej rzędowości (teacher models) do treningu modeli mniejszych (student models) – technika destylacji wiedzy.
+
+III. Proces uczenia wstępnego (Pre-training)
+Etap budowania ogólnej reprezentacji językowej i wiedzy o świecie.
+
+Prawa skalowania (Scaling Laws): Empiryczna zależność między liczbą parametrów, wielkością zbioru danych a dostępną mocą obliczeniową (compute) w kontekście minimalizacji funkcji straty.
+
+Strategia Curriculum Learning: Implementacja stopniowania trudności danych treningowych w celu przyspieszenia konwergencji modelu.
+
+Optymalizacja hiperparametrów: Dobór współczynnika uczenia (learning rate), wielkości wsadu (batch size) oraz długości sekwencji kontekstowej.
+
+IV. Procedury dostrajania (Fine-Tuning) i dopasowania (Alignment)
+Adaptacja modelu ogólnego do realizacji specyficznych zadań i zgodności z intencją użytkownika.
+
+Nadzorowane dostrajanie (Supervised Fine-Tuning - SFT): Wykorzystanie wysokiej jakości par instrukcja-odpowiedź w celu ukształtowania formatu wyjściowego modelu.
+
+Uczenie ze wzmocnieniem (Reinforcement Learning): Zastosowanie metod takich jak RLHF (Reinforcement Learning from Human Feedback) lub DPO (Direct Preference Optimization) w celu stochastycznej optymalizacji modelu pod kątem preferencji ludzkich i bezpieczeństwa.
+
+Techniki efektywne parametrowo (PEFT): Zastosowanie metod typu LoRA (Low-Rank Adaptation) umożliwiających modyfikację wag modelu przy zredukowanym zapotrzebowaniu na zasoby pamięciowe.
+
+V. Kontekstualizacja i Inferencja (In-context Learning)
+Metody optymalizacji wyników bez ingerencji w wagi modelu.
+
+RAG (Retrieval-Augmented Generation): Integracja modelu generatywnego z zewnętrznymi bazami wektorowymi w celu redukcji halucynacji i dostarczenia aktualnej wiedzy dziedzinowej.
+
+Inżynieria promptów (Prompt Engineering): Wykorzystanie technik Few-Shot Learning oraz Chain-of-Thought (CoT) w celu stymulacji zdolności wnioskowania logicznego modelu.
+
+VI. Metodyka weryfikacji i walidacji (Ewaluacja)
+Benchmarki ustandaryzowane: Ocena wydajności w oparciu o zestawy testowe (np. MMLU, HumanEval) badające zdolności w zakresie wiedzy ogólnej, matematyki i programowania.
+
+Ewaluacja automatyczna (LLM-as-a-Judge): Wykorzystanie modeli referencyjnych o wysokiej skuteczności do oceny jakości generowanych treści.
+
+Analiza jakościowa: Weryfikacja spójności, braku biasu (uprzedzeń) oraz bezpieczeństwa generowanych treści.
